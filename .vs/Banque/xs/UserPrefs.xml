@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{8DC90A49-AB34-471D-9E99-FF817448F7AB}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Banque/CompteBancaire.cs">
+    <Files>
+      <File FileName="Banque/Class1.cs" />
+      <File FileName="Banque/CompteBancaire.cs" Line="44" Column="18" />
+      <File FileName="BanqueTests/UnitTest1.cs" Line="14" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Banque" expanded="True" selected="True">
+            <Node name="Banque" expanded="True" />
+            <Node name="BanqueTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Banque" expanded="True">
+            <Node name="BanqueTests" expanded="True">
+              <Node name="BanqueTests" expanded="True">
+                <Node name="CompteBancaireTests" expanded="True">
+                  <Node name="VérifierDébitCompteCorrect" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BanqueTests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

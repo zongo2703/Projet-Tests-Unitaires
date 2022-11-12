@@ -1,0 +1,12 @@
+/Users/awa/Projects/Banque/Banque/bin/Debug/net6.0/Banque.deps.json
+/Users/awa/Projects/Banque/Banque/bin/Debug/net6.0/Banque.dll
+/Users/awa/Projects/Banque/Banque/bin/Debug/net6.0/Banque.pdb
+/Users/awa/Projects/Banque/Banque/obj/Debug/net6.0/Banque.csproj.AssemblyReference.cache
+/Users/awa/Projects/Banque/Banque/obj/Debug/net6.0/Banque.GeneratedMSBuildEditorConfig.editorconfig
+/Users/awa/Projects/Banque/Banque/obj/Debug/net6.0/Banque.AssemblyInfoInputs.cache
+/Users/awa/Projects/Banque/Banque/obj/Debug/net6.0/Banque.AssemblyInfo.cs
+/Users/awa/Projects/Banque/Banque/obj/Debug/net6.0/Banque.csproj.CoreCompileInputs.cache
+/Users/awa/Projects/Banque/Banque/obj/Debug/net6.0/Banque.dll
+/Users/awa/Projects/Banque/Banque/obj/Debug/net6.0/refint/Banque.dll
+/Users/awa/Projects/Banque/Banque/obj/Debug/net6.0/Banque.pdb
+/Users/awa/Projects/Banque/Banque/obj/Debug/net6.0/ref/Banque.dll
